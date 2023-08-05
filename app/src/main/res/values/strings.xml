@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cropsafe</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="cropsafe">CROPSAFE</string>
+    <string name="select_image">Select Image</string>
+    <string name="predict">Predict</string>
+    <string name="prediction">Prediction</string>
+    <string name="keep_the_crops_safe">Keep the crops safe</string>
+    <string name="predictimage">predictimage</string>
+</resources>
